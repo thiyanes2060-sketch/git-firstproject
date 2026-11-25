@@ -1,0 +1,12 @@
+.overall{
+    display:flex;
+    justify-content: space-around;
+    padding: 30px;
+    color:aliceblue;
+    background-color:darkblue
+}
+
+.team{
+    text-align: center;
+}
+
